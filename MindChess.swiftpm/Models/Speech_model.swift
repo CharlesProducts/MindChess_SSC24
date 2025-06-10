@@ -102,7 +102,7 @@ public final class SpeechModel : ObservableObject {
         }
         
         recognitionTask = speechRecognizer.recognitionTask(with: recognitionRequest) { result, error in
-            
+
             if let result = result {
                 self.userSpeech = result.bestTranscription.formattedString
             }
