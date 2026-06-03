@@ -1,3 +1,5 @@
+![Swift Student Challenge 2024 — Winner](https://img.shields.io/badge/Swift_Student_Challenge-2024_Winner-orange)
+
 # MindChess
 
 > Play chess entirely by voice — no board to touch, no board to look at.
@@ -39,14 +41,15 @@ looking, and to let visually-impaired players keep playing.
 
 ## Demo
 
-1 - This is a compact onboarding menu that explains the app's purpose and key features.
-
-![Introduction](docs/screenshot-introduction.png)
-
-2 - This screenshot shows the playable board with a short tutorial at the top. You can disable speech recognition, turn off audio feedback, go back, or open settings.
-
-![Play mode](docs/screenshot-play.png)
-
-3 - This is the learn mode section, designed to teach you how to play chess mentally.
-
-![Learn mode](docs/screenshot-learn.png)
+<table>
+  <tr>
+    <td width="33%" align="center"><img src="docs/screenshot-introduction.png" alt="Introduction" width="240"></td>
+    <td width="33%" align="center"><img src="docs/screenshot-play.png" alt="Play mode" width="240"></td>
+    <td width="33%" align="center"><img src="docs/screenshot-learn.png" alt="Learn mode" width="240"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Introduction</b><br>Compact onboarding menu explaining the app's purpose and key features.</td>
+    <td align="center"><b>Play mode</b><br>The playable board with a short tutorial on top. Toggle speech recognition or audio feedback, go back, or open settings.</td>
+    <td align="center"><b>Learn mode</b><br>A small built-in course that teaches you to play chess mentally.</td>
+  </tr>
+</table>
