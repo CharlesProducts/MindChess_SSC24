@@ -29,7 +29,7 @@ Apple's built-in recognition wasn't great in French, so I tried training my own
 CreateML model. I even built a companion app, **Record Assets**, to collect voice samples from people around me. In the end I didn't have enough samples — or enough different voices — for it to be reliable, and since the Challenge is in English I couldn't train an English model either (no one around me had a good enough accent).
 So I fell back to Apple's recognition and customized it as far as it would go.
 
-> Companion app: **Record Assets** — built for this project to collect the voice samples. [→ repo](https://github.com/<username>/record-assets)
+> Companion app: **Record Assets** — built for this project to collect the voice samples. [→ repo](https://github.com/CharlesProducts/RecordAssets)
 
 ## Vision
 The idea came from two places: the fascination of playing chess blindfolded — like
